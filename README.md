@@ -1,4 +1,4 @@
-# 2026_osp_shinsubin
+# 2026_osp_subin
 
 2026학년도 오픈소스 소프트웨어 플랫폼(Open Software Platform) 수업의 Git 실습 저장소입니다.
 
